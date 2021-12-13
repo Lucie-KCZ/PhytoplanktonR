@@ -7,6 +7,9 @@
 # lucie.kuczynski@hotmail.com
 # last edit: Nov 25, 2021
 
+# corresponding recording can be found here:
+# https://osf.io/8uqcv/?view_only=03935ee3d6ac4567aa3180c6cdeb71ef
+
 # DONT RUN IF YOU HAVE THINGS IN YOUR ENVIRONMENT YOU WANT TO KEEP!
 # cleaning the environment and the memory
 for(i in 1:10) gc(reset = T) ; rm(list = ls())
