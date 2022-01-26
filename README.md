@@ -7,3 +7,4 @@ Jan 10, 2022: Multivariate - theory
 
 Jan 17, 2022: Multivariate - on R
 
+Jan 31, 2022: FD
